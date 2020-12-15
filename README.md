@@ -1,4 +1,4 @@
 # MimeticNets
 Mimetic Networks for Image Pre-processing
 
-Prezi: https://prezi.com/p/0cbmatylhthc/
+Prezi: https://prezi.com/p/ao3gilg7ousg/
